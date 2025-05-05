@@ -1,0 +1,9 @@
+Couleur_fond : "pink"
+Couleur_piece : ['black', 'cyan', 'blue', 'orange', 'yellow', 'green', 'purple', 'red', 'gold', 'lime', 'pink', 'brown', 'grey', 'white', 'teal', 'navy', 'maroon', 'magenta', 'olive']
+Touche_gauche : "q"
+Touche_droite : "d"
+Touche_rotation : "z"
+Touche_chute : "s"
+Touche_pause : "space"
+
+
