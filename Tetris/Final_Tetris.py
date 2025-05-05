@@ -1431,5 +1431,7 @@ def bonus_rotation_plateau(Sauvegarde):
 ##################################################################
         
 if __name__ == '__main__':
+    if not os.path.exists('sauvegardes'):
+        os.makedirs('sauvegardes')
     ecran()
     menu_principal()
